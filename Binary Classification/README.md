@@ -1,4 +1,4 @@
-# Machine learning introduction
+# Binary Classification
 
 * Binary Classification comparing Random Forest Classification, K-Nearest Neighbor (KNN) and PyTorch.
 
@@ -11,6 +11,7 @@ The necessary packages to run this code are:
 * matplotlib
 * sklearn
 * pytorch
+* python
 
 ## Google Colab Link
 In Google Colab, go to **Archive** => **Save a Copy in Drive**
